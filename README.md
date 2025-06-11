@@ -6,12 +6,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ## 💡 About Me
 
-🎓 I'm a Computer Science graduate with a deep love for clean, maintainable code.
-🔭 Currently working on: **Spring Boot + React** based full-stack projects.
-🌱 Currently learning: **DevOps, Microservices**, and **Cloud deployment (AWS/GCP)**.
-💬 Ask me about: **Java, Python, REST APIs, Git, Angular, MongoDB, and SQL**.
-🤝 Looking to collaborate on: **Open-source backend tools**, **API integrations**, and **productivity-focused web apps**.
-⚡ Fun fact: I automate everything I can, including my tea-making schedule ☕😉
+ - 🎓 I'm a Computer Science graduate with a deep love for clean, maintainable code.
+ - 🔭 Currently working on: **Spring Boot + React** based full-stack projects.
+ - 🌱 Currently learning: **DevOps, Microservices**, and **Cloud deployment (AWS/GCP)**.
+ - 💬 Ask me about: **Java, Python, REST APIs, Git, Angular, MongoDB, and SQL**.
+ - 🤝 Looking to collaborate on: **Open-source backend tools**, **API integrations**, and **productivity-focused web apps**.
+ - ⚡ Fun fact: I automate everything I can, including my tea-making schedule ☕😉
 
 ---
 
@@ -37,8 +37,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ## 📫 Let's Connect
 
-📧 Email: [sasidharkoneru22@gmail.com](mailto:sasidharkoneru22@gmail.com)
-💼 LinkedIn: [linkedin.com/in/sasidharkoneru](https://linkedin.com/in/sasidharkoneru)
+ - 📧 Email: [sasidharkoneru22@gmail.com](mailto:sasidharkoneru22@gmail.com)
+ - 💼 LinkedIn: [linkedin.com/in/sasidharkoneru](https://linkedin.com/in/sasidharkoneru)
 
 ---
 
